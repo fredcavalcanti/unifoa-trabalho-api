@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+.title {
+    margin-top: 5%;
+    text-align: center;
+    color:white;
+}
+
+.act {
+    text-align: center !important;
+    color:white;
+}
